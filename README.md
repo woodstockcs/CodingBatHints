@@ -1,10 +1,6 @@
 # CodingBatHints
 mostly created by Sam Powers
 
-
-# FinalExamProject
-By Sam Powers
-
 ## Warmup-1
 
 #### Problem: stringE-
